@@ -48,7 +48,7 @@ a.cart-link { color:#fff; background:url(images/cart-link.gif) no-repeat 0 0; pa
 a.cart-link:hover { text-decoration: underline;}
 
 #sidebar { float:left; width:226px;}
-#content { float:right; width:724px;}
+#content {}
 
 #main { padding:10px 0 0 0; }
 
